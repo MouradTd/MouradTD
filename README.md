@@ -8,7 +8,7 @@ I am a young developer, ambitious, I always seek to improve my skills to meet cu
 
 * 🌍  I'm based in Rabat,Morrocco
 * ✉️  You can contact me at [mourad.arejdal@gmail.com](mailto:mourad.arejdal@gmail.com)
-* 🧠  I'm learning Vue.js , Nuxt.js and Flutter
+* 🧠  I'm Currently learning ....
 
 ### Skills
 
