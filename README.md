@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mourad AREJDAL
 ======================================================================================================================================
 
-I'm a junior full-stack Developer
+I'm a  full-stack Developer
 ---------------------------------
 
 I am a young developer, ambitious, I always seek to improve my skills to meet customer needs. I am oriented towards Web and Mobile Development.
